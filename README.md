@@ -1,3 +1,10 @@
+## NativeScript 7
+
+* Use `@nativescript/iqkeyboardmanager`: `~2.0.0`
+* [Source managed here](https://github.com/NativeScript/plugins)
+
+## If using 6 and below, see the following:
+
 # NativeScript IQKeyboardManager Plugin
 
 NativeScript wrapper for the popular [IQKeyboardManager](https://cocoapods.org/pods/IQKeyboardManager) iOS framework, which provides an elegant solution for preventing the iOS keyboard from covering `UITextView` controls.
